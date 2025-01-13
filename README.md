@@ -36,7 +36,7 @@ button {
     font-size: 14px;
 }
 ```
-
+for the full ACSS spec see [Avalonia Spec](./docs/AvaloniaSpec.md)
 Apply styles to your Avalonia controls:
 
 ```xml
