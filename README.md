@@ -20,20 +20,17 @@ ACSS is a lightweight and flexible CSS library designed specifically for styling
 
 ## Getting Started
 
-Create an `.acss` file and define your styles:
+Create an `.acss` file in the `/[ProjectRoot]/Styles` and define your styles:
 
 ```css
 button {
-    background-color: #007acc;
-    color: white;
-    padding: 10px 20px;
-    border-radius: 5px;
+    background: #007acc;
+    margin: 10 20;
 }
 
 .textbox {
-    border: 1px solid #ccc;
-    padding: 5px;
-    font-size: 14px;
+   
+    font-size: 14;
 }
 ```
 for the full ACSS spec see [Avalonia Spec](./docs/AvaloniaSpec.md)
